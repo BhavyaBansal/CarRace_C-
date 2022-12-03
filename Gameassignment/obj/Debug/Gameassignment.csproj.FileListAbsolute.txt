@@ -1,0 +1,20 @@
+C:\Users\mahak ji\source\repos\Gameassignment\Gameassignment\bin\Debug\Gameassignment.exe.config
+C:\Users\mahak ji\source\repos\Gameassignment\Gameassignment\bin\Debug\Gameassignment.exe
+C:\Users\mahak ji\source\repos\Gameassignment\Gameassignment\bin\Debug\Gameassignment.pdb
+C:\Users\mahak ji\source\repos\Gameassignment\Gameassignment\obj\Debug\Gameassignment.csprojAssemblyReference.cache
+C:\Users\mahak ji\source\repos\Gameassignment\Gameassignment\obj\Debug\Gameassignment.Form1.resources
+C:\Users\mahak ji\source\repos\Gameassignment\Gameassignment\obj\Debug\Gameassignment.Properties.Resources.resources
+C:\Users\mahak ji\source\repos\Gameassignment\Gameassignment\obj\Debug\Gameassignment.csproj.GenerateResource.cache
+C:\Users\mahak ji\source\repos\Gameassignment\Gameassignment\obj\Debug\Gameassignment.csproj.CoreCompileInputs.cache
+C:\Users\mahak ji\source\repos\Gameassignment\Gameassignment\obj\Debug\Gameassignment.exe
+C:\Users\mahak ji\source\repos\Gameassignment\Gameassignment\obj\Debug\Gameassignment.pdb
+C:\Users\hp\source\repos\Gameassignment\Gameassignment\bin\Debug\Gameassignment.exe.config
+C:\Users\hp\source\repos\Gameassignment\Gameassignment\bin\Debug\Gameassignment.exe
+C:\Users\hp\source\repos\Gameassignment\Gameassignment\bin\Debug\Gameassignment.pdb
+C:\Users\hp\source\repos\Gameassignment\Gameassignment\obj\Debug\Gameassignment.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Gameassignment\Gameassignment\obj\Debug\Gameassignment.Form1.resources
+C:\Users\hp\source\repos\Gameassignment\Gameassignment\obj\Debug\Gameassignment.Properties.Resources.resources
+C:\Users\hp\source\repos\Gameassignment\Gameassignment\obj\Debug\Gameassignment.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Gameassignment\Gameassignment\obj\Debug\Gameassignment.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Gameassignment\Gameassignment\obj\Debug\Gameassignment.exe
+C:\Users\hp\source\repos\Gameassignment\Gameassignment\obj\Debug\Gameassignment.pdb
